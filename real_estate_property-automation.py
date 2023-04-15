@@ -39,7 +39,7 @@ length = int(length.text)
 
 
 for k in range(length):
-    with open('p.csv','a',newline='') as file: 
+    with open('property.csv','a',newline='') as file: 
         for i in range(1,24):
             time.sleep(2)
             try:
