@@ -5,6 +5,7 @@ Perform web scraping on nigeria property center website, cleaned the data and in
 # Languages used:
 
 Python
+
 Sql
 
 # Libraries required:
