@@ -9,11 +9,17 @@ Python
 Sql
 
 # Libraries required:
+
 selenium
+
 pandas
+
 csv
+
 time
+
 datetime
+
 sqlalchemy
 
 # Files contained in the repository:
